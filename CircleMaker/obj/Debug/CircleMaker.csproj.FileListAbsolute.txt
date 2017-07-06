@@ -1,0 +1,6 @@
+C:\Users\slage\Desktop\C# Bootcamp\CircleMaker\CircleMaker\bin\Debug\CircleMaker.exe.config
+C:\Users\slage\Desktop\C# Bootcamp\CircleMaker\CircleMaker\bin\Debug\CircleMaker.exe
+C:\Users\slage\Desktop\C# Bootcamp\CircleMaker\CircleMaker\bin\Debug\CircleMaker.pdb
+C:\Users\slage\Desktop\C# Bootcamp\CircleMaker\CircleMaker\obj\Debug\CircleMaker.csprojResolveAssemblyReference.cache
+C:\Users\slage\Desktop\C# Bootcamp\CircleMaker\CircleMaker\obj\Debug\CircleMaker.exe
+C:\Users\slage\Desktop\C# Bootcamp\CircleMaker\CircleMaker\obj\Debug\CircleMaker.pdb
